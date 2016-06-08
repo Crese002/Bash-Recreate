@@ -1,0 +1,10 @@
+ls
+ls -al
+ls -j		# fail
+echo A
+echo AB CD
+help help
+pwd
+echo echo
+echa AB		# fail
+		# blank input
